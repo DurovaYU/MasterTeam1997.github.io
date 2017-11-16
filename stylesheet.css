@@ -1,0 +1,26 @@
+p {
+ 	 font-family: "georgia";
+     font-size: 20px;
+     color: Ivory ;	
+     text-align: center;
+}
+body {
+   background-image: url("bk.png");
+}
+
+h4 {
+ 	 font-family: "georgia";
+     font-size: 30px;
+     color: gainsboro;	
+     text-align: center;
+}
+h1 {
+ 	 font-family: "Verdana";
+     font-size: 40px;
+     color: white;	
+     text-align: center;
+}
+img {
+	border-style: outset;
+    border-color: gold;
+}
